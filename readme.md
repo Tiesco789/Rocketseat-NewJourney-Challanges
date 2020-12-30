@@ -1,3 +1,3 @@
 # Repositórios dos desafios do bootcamp GoStack da Rocketseat
 
-# Conceitos ReactJS
+# Desafio: Conceitos ReactJS
