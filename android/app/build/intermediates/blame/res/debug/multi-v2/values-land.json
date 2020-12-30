@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tiesco/Área de trabalho/codes/NewJourney-Challanges/Rocketseat-NewJourney-Challange-3/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\Tiesco\\Desktop\\codes\\Rocketseat-NewJourney-Challanges\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/home/tiesco/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\Tiesco\\.gradle\\caches\\transforms-2\\files-2.1\\2b7e6ebaa515cd43f42fb356f0d1941c\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

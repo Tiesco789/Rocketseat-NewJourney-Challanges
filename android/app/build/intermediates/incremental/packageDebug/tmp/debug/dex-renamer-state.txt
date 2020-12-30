@@ -1,4 +1,4 @@
-#Mon Apr 20 10:45:11 BRT 2020
-base.0=/home/tiesco/Área de trabalho/codes/NewJourney-Challanges/Rocketseat-NewJourney-Challange-3/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Wed Dec 30 14:57:03 BRT 2020
+base.0=C\:\\Users\\Tiesco\\Desktop\\codes\\Rocketseat-NewJourney-Challanges\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
